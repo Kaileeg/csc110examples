@@ -1,8 +1,8 @@
 package labs;
 
-// Wile E. Coyote
-// CSC110AB Section 12345
-// January 15, 2024
+// Kailee N. Gale
+// CSC110AB Section 29079
+// September 10, 2024
 
 public class Module01Lab {
 
